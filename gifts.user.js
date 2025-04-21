@@ -5,8 +5,8 @@
 // @description  سكربت لتجميع جوائز BattlePass بواجهة احترافية وخيارات محسنة
 // @author       د.أحمد خالد
 // @match        *.centurygames.com/*
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/ak2132003/-_-_-/raw/refs/heads/main/gifts.user.js
+// @downloadURL  https://github.com/ak2132003/-_-_-/raw/refs/heads/main/gifts.user.js
 // @grant        unsafeWindow
 // @run-at       document-end
 // ==/UserScript==
