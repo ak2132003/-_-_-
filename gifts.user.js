@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         تجميع جوائز د.أحمد خالد - النسخة المحسنة
 // @namespace    http://tampermonkey.net/ https://www.facebook.com/Dr.Ahmed.FamilyFarm
-// @version      2.0
-// @description  سكربت لتجميع جوائز BattlePass بواجهة احترافية وخيارات محسنة ahmed khaled
+// @version      2.1
+// @description  سكربت لتجميع جوائز BattlePass بواجهة احترافيه وخيارات محسنة ahmed khaled
 // @author       د.أحمد خالد
 // @match        *.centurygames.com/*
 // @updateURL    https://github.com/ak2132003/-_-_-/raw/refs/heads/main/gifts.user.js
